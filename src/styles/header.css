@@ -33,7 +33,7 @@ header {
     border-bottom: 3px solid #7a71ca;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1200px) {
      
     #nav_list {
         display: none;
