@@ -1,6 +1,7 @@
 #home {
     display: flex;
     min-height: calc(100vh -91px);
+    position: relative;
 
 }
 
@@ -40,3 +41,25 @@
     box-shadow: 0px 0px 12px 4px rgba(0, 0, 0, 0.1);
     border-radius: 12px ;
 }
+
+#banner {
+    display: flex;
+    align-items: start;
+    justify-content: end;
+    width: 70%;
+    z-index: 2;
+}
+
+#banner img {
+    height: 100%;
+    width: fit-conten;
+    position: absolute;
+    border-radius: 30% 20% 20% 20%;
+    top: 10;
+    right: 1;
+    z-index: 1;
+    background-color: transparent;
+   
+    
+}
+
