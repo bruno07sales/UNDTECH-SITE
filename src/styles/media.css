@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px){
+    #banner{
+        display: none;
+    }
+    #home{
+        display: flex;
+        flex-direction: column;
+
+    }
+    #cta{
+        width: calc(100% - 40px);
+        max-width: 768px;
+        margin: 0 auto;
+        padding: 20px;
+        font-size: 1rem;
+        justify-content: center;
+        align-items: center;
+    }
+}
