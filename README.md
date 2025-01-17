@@ -23,6 +23,6 @@ O site da UNDTECH é uma plataforma desenvolvida para apresentar a nova empresa 
 
 ## O nosso site encontra-se em processo de estruturação (ainda incompleto), mas já estamos engajados e animados com a ideia da nossa Empresa Junior!
 
-![image](https://github.com/user-attachments/assets/e92e9730-2c73-4b7c-bc59-e65500d35d71)
+![image](https://github.com/user-attachments/assets/f4ee6a48-40b2-4aad-99d3-30906a373e9c)
 
-Segunda imagem do dia 15/01/2025
+Imagem do dia 16/01/2025
