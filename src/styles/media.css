@@ -1,0 +1,42 @@
+@media screen and (max-width: 768px){
+    #banner{
+        display: none;
+    }
+    #home{
+        display: flex;
+        flex-direction: column;
+
+    }
+    #cta{
+        width: calc(100% - 40px);
+        max-width: 768px;
+        margin: 0 auto;
+        padding: px;
+        font-size: 1rem;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 980px){
+    body{
+        width: 100%;
+        overflow-x: hidden;
+    }
+
+    #banner img{
+        position: relative;
+        top: 50px;
+        left: 40px;
+        width: 480px;
+        height: 480px;
+        padding: 40px;
+    }
+
+    .cta-buttons{
+        font-size: 200px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
