@@ -1,0 +1,65 @@
+.container{
+    margin-top: 60px;
+    display: grid;
+    grid-template-columns: 1fr 50px 1fr;
+    gap: 10px;
+    justify-content: center
+}
+
+.representante{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: start;
+    max-width: 500px;
+    margin: 50px;
+    
+    overflow: hidden;
+}
+
+.representante img{
+    display: flex;
+    align-self: start;
+    justify-self: start;
+    width: 120px;
+    border-radius: 5px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: safe;
+    padding: 10px;
+    min-height: 0;
+}
+
+.divisor{
+    width: 1px;
+    background-color: black;
+    height: 80%;
+    align-self: center;
+}
+
+aside{
+    max-height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    gap: 20px;
+}
+
+aside p{
+    display: flex;
+    align-self: center;
+    text-decoration: none;
+}
+
+.social-media-buttons{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    
+}
+
+
