@@ -51,8 +51,8 @@
 }
 
 #banner img {
-    height: 100%;
-    width: fit-content;
+    height: auto;
+    width: 35%;
     position: absolute;
     border-radius: 30% 20% 20% 20%;
     top: 10;
